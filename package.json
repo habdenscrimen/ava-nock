@@ -88,9 +88,6 @@
       "prettier --write"
     ]
   },
-  "peerDependencies": {
-    "ava": "^1.0.0 || ^2.0.0 || ^3.0.0"
-  },
   "dependencies": {
     "debug": "^4.3.4",
     "fs-extra": "^10.1.0",
